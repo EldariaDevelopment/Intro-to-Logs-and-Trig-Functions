@@ -15,6 +15,8 @@ $$\log_b \left(
 \right) = \log_b{x}-\log_b{y}$$
 
 #### The Change of Base Property: $$\log_a{x}=\frac{\log_b{x}}{\log_b{a}}$$
+
+
 # Trig Functions
 ## Introduction to Trig Functions
 Trig function describe some ratios on the unit circle, we have three main trig functions, $\sin$, $\cos$, $\tan$
